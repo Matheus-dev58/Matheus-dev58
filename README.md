@@ -1,5 +1,5 @@
 <h1> HELLO WORLD</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 Chamo-me Matheus Nascimento e sou um programador neste perfil irei compartilhar os meus projetos.
 
