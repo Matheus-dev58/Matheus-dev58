@@ -6,9 +6,9 @@
 
   <a href="https://github.com/Matheus-NascimentoS">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-NascimentoS&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnascimentods&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-NascimentoS&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnascimentods&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 
    <div align="center">
 
@@ -27,8 +27,8 @@
  
 <div align="center"> 
  
-  <a href = "mailto:matheus.nita78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-nascimento-dossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matheusnascimentods@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheusnascimentods/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
 
