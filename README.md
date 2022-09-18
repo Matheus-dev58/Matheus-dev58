@@ -1,6 +1,6 @@
 <h1> HELLO WORLD!</h1>
 
-<h3>Chamo-me Matheus Nascimento e sou um programador neste perfil irei compartilhar os meus projetos.</h3>
+<h3>Me Matheus Nascimento e sou um programador neste perfil irei compartilhar os meus projetos.</h3>
 
 <div align="center">
 
@@ -31,8 +31,3 @@
   <a href="https://www.linkedin.com/in/matheusnascimentods/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-
-
-
-
