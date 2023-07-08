@@ -1,7 +1,5 @@
 <h1> HELLO WORLD!</h1>
 
-<h3>Me Matheus Nascimento e sou um programador neste perfil irei compartilhar os meus projetos.</h3>
-
 <div align="center">
 
   <a href="https://github.com/Matheus-NascimentoS">
